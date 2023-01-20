@@ -1,0 +1,17 @@
+#navbar {
+  height: 100px;
+  width: 100%;
+  border: 2px solid;
+  display: flex;
+  list-style: none;
+  align-items: center;
+}
+
+#navbar li {
+  margin: 10px;
+}
+
+#navbar li:hover {
+  background-color: blue;
+  cursor: pointer;
+}
